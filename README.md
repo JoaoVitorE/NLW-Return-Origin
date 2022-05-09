@@ -4,7 +4,4 @@
 
 
 Projeto desenvolvido durante 8ª edição do NLW Return Origin, que aconteceu durante os dias 2 a 6 de maio de 2022.
-Esse projeto tem como principal foco a utilização e aprendizado das linguagens:
- - HTML
- - CSS
- - JavaScript
+Esse projeto foi desenvolvido um projeto de uma landing page de uma clinica médica ficticia visando abordar conceitos de HTML, CSS e JS. O desenvolvimento seguiu o conceito "Mobile first", seguindo primeiramente por um design otimizado para dispositivos móveis para então desenvolver para outras telas.
